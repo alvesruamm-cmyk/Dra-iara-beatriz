@@ -11,7 +11,8 @@ import FooterCta from "./components/FooterCta";
 import Footer from "./components/Footer";
 import WhatsAppBottom from "./components/WhatsAppBottom";
 
-export default function App() {
+export default function App() { 
+  document.title = "Dra. Iara Beatriz | Implantodontia Avançada";
   return (
          
       {/* 1. Header / Navigation */}
