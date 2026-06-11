@@ -12,10 +12,6 @@ import Footer from "./components/Footer";
 import WhatsAppBottom from "./components/WhatsAppBottom";
 
 export default function App() {
-  React.useEffect(() => {
-    document.title = "Dra. Iara Beatriz | Implantodontia Avançada";
-  }, []);
-
   return (
          
       {/* 1. Header / Navigation */}
